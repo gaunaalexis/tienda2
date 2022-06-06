@@ -1,0 +1,24 @@
+
+
+Client Side Rendering : El server entrega un html parcialmente vacio y javascript frontend completa el resto
+
+Server Side Rendering : El server corre tu app de react, el resultado lo mete en el html vacio y entrega eso 
+
+Static Site Rendering : Tenes los archivos fisicos harcodeados
+
+function foo(a){
+    if(a){
+
+    }else{
+
+    }
+
+}
+
+foo(1)
+foo()
+
+<Foo parametro="1" />
+
+
+PROPS (parametros) : Son las propiedades que le pasas a un componente
